@@ -5,7 +5,8 @@
 * 📌**Bitirme Projesinin bu ayağında ise bizlerden aynı şekilde dört adet Task istenmiştir ancak bu sefer yapmamız gereken sorgularımızı SQL de yazdıktan sonra PowerBI kullanarak etkileyici ve profesyonel bir dashboard hazırlamak.**
 * 📌**Veri seti ile alakalı detaylı tüm bilgiler ve içeriklere [buradan](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-2) ulaşabilirsiniz.**
 * 📌**Çalışmamın SQL sorgularının bulunduğu dosyaya [buradan](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/blob/main/Bitirme%20Projesi%20Sorgular%C4%B1.sql) ulaşabilirsiniz.**
-* 📌**Çalışmamın PowerBI dashboardına [buradan](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/blob/main/Bitirme%20Projesi%20Dashboard.pbix) ulaşabilirsiniz**
+* 📌**Çalışmamın PowerBI dashboardına [buradan](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/blob/main/Bitirme%20Projesi%20Dashboard.pbix) ulaşabilirsiniz.**
+* 📌**Çalışmamın PowerBI dashboard PDF dosyasına [buradan](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/blob/main/Bitirme%20Projesi%20Dashboard.pdf) ulaşabilirsiniz.**
 
 ## 🚀 **İstenen Senaryolar**
 
