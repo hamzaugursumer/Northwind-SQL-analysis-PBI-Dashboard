@@ -375,3 +375,23 @@ order by 1
 | 22    | 1998-04    | 103612.2    | 88741.6              | 16.76             |
 | 23    | 1998-05    | 15758.9     | 103612.2             | -84.79            |
 ----------------------------
+
+## 🚀 **Elde edilen çıktıların Dashboardları**
+* 🗝️**CASE 1 - Kategori Analizi ;**
+
+![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/assets/127680099/e22bb2bc-29dc-4b9a-bca4-c4a4ca276cad)
+
+
+* 🗝️**CASE 2 - Çalışan Performans Analizi ;**
+
+![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/assets/127680099/18d585f3-45cf-4a2f-a417-080a1105bb52)
+
+
+* 🗝️**CASE 3 - Ülkelerin Yıllara göre Top 1 Kategori Tercihleri ;**
+
+![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/assets/127680099/253b4880-ffe0-4b90-89be-22073eff224c)
+
+
+* 🗝️**CASE 4 - Aylık Büyüme Oranları ;**
+
+![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/assets/127680099/0862d64a-5a52-4d38-b1d1-ffbd99f39241)
