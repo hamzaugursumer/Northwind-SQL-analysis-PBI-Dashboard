@@ -397,3 +397,7 @@ order by 1
 
 ![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam-3/assets/127680099/51677799-58d8-4dc0-97aa-9ba57d761412)
 
+**NOT :**
+* Bu proje ile birlikte e-ticaret verilerinde istenebilecek görevlerin ve bu görevlerden sonra oluşacak olan görselleştirmelerin, sunum becerilerinin en az sorguları yazmak kadar önemi olduğunu hatta daha fazla önemli olduğunu anladım. Burada yazdığım sorgular ve oluşturduğum dashboardların ne kadar önemli olduğunun bir kez daha farkına vardım.
+* Bu projeyi başarıyla tamamlamamda yardımcı olan herkese teşekkür etmek isterim. Ayrıca, herhangi bir geri bildiriminiz veya öneriniz varsa, lütfen çekinmeden paylaşın. Bu, gelecekteki çalışmalarımızı daha da iyileştirmemize yardımcı olacaktır.
+Son olarak ⭐ vermeyi unutmayın, Teşekkürler.
